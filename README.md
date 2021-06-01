@@ -3,9 +3,9 @@
 This is the first BibTex project in Spanish that maintains the format of numbering in square brackets and sorting by author's surname.
 To this end, we have solved the main problems we usually encounter when using BibText's default styles, the particles in English:
 
-1. "and" -> "and"
-2. "In" -> "In" -> "In"
-3. "pages" -> "pages"
+1. "and" -> "y"
+2. "In" -> "En"
+3. "pages" -> "páginas"
 4. etc.
 
 
